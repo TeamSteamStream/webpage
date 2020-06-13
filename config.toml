@@ -31,3 +31,5 @@ theme = "mainroad"
   # Enable widgets in given order
   widgets = ["search", "recent", "taglist", "categories"]
 
+[markup.goldmark.renderer]
+unsafe=true
