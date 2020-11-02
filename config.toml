@@ -5,7 +5,7 @@ theme = "mainroad"
 
 [Author] # Used in authorbox
   name = "Lars Haulin"
-  bio = "Lars is an UU alumn, working as an IT-security specialist in Uppsala. He has been playing CTFs for over 10 year with the top ranked swedish team HackingForSoju."
+  bio = "Lars is an UU alumn, working as an IT-security specialist in Uppsala. He has been playing CTFs for over 10 years with the top ranked Swedish team HackingForSoju."
   #avatar = "img/avatar.png"
 
 [Params]
